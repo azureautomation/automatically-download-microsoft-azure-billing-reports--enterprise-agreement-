@@ -1,0 +1,20 @@
+{
+    "Author": "Kevin Sapp",
+    "ContentSize": 3182,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/automatically-download-microsoft-azure-billing-reports-(enterprise-agreement)/master/Get-AzureEA_BillingReports.ps1",
+    "DownloadCount": 2144,
+    "Id": "Automatically-Azure-e019fcd5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 135,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-2-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script uses the REST API to get the Enterprise Agreement billing reports for Azure in CSV format. These monthly reports are normally found in the Azure EA portal.",
+    "Title": "Automatically Download Microsoft Azure Billing Reports (Enterprise Agreement)",
+    "UpdatedDate": "2016-2-2T00:00:00",
+    "Url": "https://github.com/azureautomation/automatically-download-microsoft-azure-billing-reports-(enterprise-agreement)",
+    "UserTags": "Microsoft Azure, Azure billing, Azure report"
+}
